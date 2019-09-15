@@ -3,7 +3,6 @@ package com.lsl.string;
 public class StrStr {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String haystack = "hello";
 		String needle = "ll";
 		System.out.println(strStr(haystack,needle));
@@ -19,5 +18,4 @@ public class StrStr {
 		}
         return index;
     }
-
 }

@@ -17,5 +17,4 @@ public class ReverseString {
 			s[s.length - 1 - i] = t;
 		}
     }
-
 }

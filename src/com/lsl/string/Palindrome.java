@@ -3,7 +3,6 @@ package com.lsl.string;
 public class Palindrome {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String string =  "A man, a plan, a canal: Panama";
 		System.out.println(isPalindrome(string));
 		String string2 =   "race a car";

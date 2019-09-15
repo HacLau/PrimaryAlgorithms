@@ -3,7 +3,6 @@ package com.lsl.string;
 public class LongestCommonPrefix {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String[] strs = {"c","c","c"};
 		System.out.println(longestCommonPrefix(strs));
 	}

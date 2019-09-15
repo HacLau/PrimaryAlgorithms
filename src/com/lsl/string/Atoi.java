@@ -1,9 +1,7 @@
 package com.lsl.string;
 
 public class Atoi {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String string = "2147483648";
 		System.out.println(myAtoi(string));
 	}

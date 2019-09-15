@@ -3,7 +3,6 @@ package com.lsl.string;
 public class AndSay {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//"312211"
 		int n = 6;
 		System.out.println(countAndSay(n));

@@ -1,6 +1,5 @@
 package com.lsl.string;
 
-
 public class InvertIntData {
 
 	public static void main(String[] args) {
